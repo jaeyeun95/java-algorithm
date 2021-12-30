@@ -55,6 +55,7 @@ public class Q15 {
             triangleRU(n);
             System.out.println("오른쪽 아래");
             triangleRB(n);
+            System.out.println("test");
 
         } while (n <=0 );
         
