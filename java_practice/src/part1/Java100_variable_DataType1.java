@@ -1,4 +1,4 @@
-package chapter3;
+package part1;
 
 public class Java100_variable_DataType1 {
     public static void main(String[] args) {
