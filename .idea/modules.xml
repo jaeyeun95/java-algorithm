@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_practice/document/1. 환경변수 설정/1. 환경변수 설정.iml" filepath="$PROJECT_DIR$/java_practice/document/1. 환경변수 설정/1. 환경변수 설정.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/document/2. 자료형, 연산자/2. 자료형, 연산자.iml" filepath="$PROJECT_DIR$/java_practice/document/2. 자료형, 연산자/2. 자료형, 연산자.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/document/3. 조건문 반복문/3. 조건문 반복문.iml" filepath="$PROJECT_DIR$/java_practice/document/3. 조건문 반복문/3. 조건문 반복문.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-algorithm.iml" filepath="$PROJECT_DIR$/.idea/java-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_practice.iml" filepath="$PROJECT_DIR$/java_practice/java_practice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806d97cf-628c-4b72-bde3-c7c881cfb2f3" name="Changes" comment="" />
+    <list default="true" id="029ee1ea-33f0-4950-b63f-c62cb3fd946f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/JudgeSign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Max3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Max3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Max4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Median.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Min3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Min4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/Multi99Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/SumFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/SumForPos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/SumWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/TriangleLB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap01/practice/Q8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/ArrayEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/CardConRev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/CloneArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/Int2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/IntArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/IntArrayInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/MaxOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/MaxOfArrayRand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/PrimeNumber1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/PrimeNumber2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/practice/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/practice/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/bin/chap02/practice/Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Digits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/JudgeSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Max3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Max3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Max4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Median.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Min3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Min4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/Multi99Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/SumFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/SumForPos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/SumWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/TriangleLB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap01/practice/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/ArrayEqual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/CardConRev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/CloneArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/Int2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/IntArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/IntArrayInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/MaxOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/MaxOfArrayRand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/PrimeNumber1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/PrimeNumber2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/practice/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/practice/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/chap02/practice/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_practice/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java_practice/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +89,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="24PrSDZsEg5wNR1Va9S3tzcAgfI" />
+  <component name="ProjectId" id="26kDDVAuvwgGJhHxqsECamQdVDd" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -19,30 +98,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java-algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java-algorithm" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="806d97cf-628c-4b72-bde3-c7c881cfb2f3" name="Changes" comment="" />
-      <created>1643543063777</created>
+      <changelist id="029ee1ea-33f0-4950-b63f-c62cb3fd946f" name="Changes" comment="" />
+      <created>1647958573053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643543063777</updated>
-      <workItem from="1643543065218" duration="45000" />
+      <updated>1647958573053</updated>
+      <workItem from="1647958576035" duration="3000" />
+      <workItem from="1647958607458" duration="20000" />
     </task>
     <servers />
   </component>
